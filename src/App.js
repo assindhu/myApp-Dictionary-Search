@@ -6,7 +6,7 @@ function App() {
       <div className="App">
         <header className="App-header">Dictionary</header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="footer">
           <a href="https://github.com/assindhu/myApp-Dictionary-Search">
